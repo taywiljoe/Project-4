@@ -1,4 +1,3 @@
-# Project-4:
 Topic: Salaries based on college, region and academic major
 
 ## Team Members
