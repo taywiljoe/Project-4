@@ -1,7 +1,6 @@
 Topic: Salaries based on college, region and academic major
 
 ## Team Members
-- Abiodun Oseni
 - Lyvia Nguyen
 - Alan Grubb
 - Kikelomo Ijagbemi
