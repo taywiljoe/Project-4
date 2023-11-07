@@ -1,4 +1,5 @@
-Topic: Diabetes Prediciton
+## Topic
+Diabetes Prediciton
 
 ## Team Members
 - Lyvia Nguyen
