@@ -1,4 +1,4 @@
-Topic: Salaries based on college, region and academic major
+Topic: Diabetes Prediciton
 
 ## Team Members
 - Lyvia Nguyen
@@ -8,12 +8,16 @@ Topic: Salaries based on college, region and academic major
 - Dev Paul
 
 ## Project Description
+We will use machine learning to predict the likelihood of Diabetes in patients based on their demographic details and medical history.
 
 ## Data Components
 
+
 ## Data Source:
-- Dataset: https://data.cdc.gov/api/views/bi63-dtpu/rows.json?accessType=DOWNLOAD
+Dataset: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
   
 ## Questions to answer:
+1. Are males or females more likely to develop Diabetes and at what age?
+2. Does smoking increase someone's risk of developing Diabetes?
 
 
