@@ -30,7 +30,7 @@ We will use the following in our project:
 ## Tasks
 Taylor- Visualizations
 Dev- Visualizations
-Kiki- Presentation slides
+Kiki- Tableau Visualizations/Presentation slides
 Lyvia- Tableau Visualizations
 Alan- Sequential Machine Learning
 
