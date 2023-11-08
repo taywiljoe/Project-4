@@ -19,5 +19,8 @@ Dataset: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-datase
 ## Questions to answer:
 1. Are males or females more likely to develop Diabetes and at what age?
 2. Does smoking increase someone's risk of developing Diabetes?
+3. Does Heart Disease increase someone's risk of developing Diabetes?
+4. Does the risk of Diabetes increase with age?
+5. Does a higher BMI increase the likelihood of Diabetes?
 
 
