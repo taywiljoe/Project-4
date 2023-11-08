@@ -39,7 +39,9 @@ Alan- Sequential Machine Learning
 Dataset: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
   
 ## Questions to answer:
-1. Are males or females more likely to develop Diabetes and at what age?
+1. Are males or females more likely to develop Diabetes?
 2. Does smoking increase someone's risk of developing Diabetes?
+3. Does the risk for Diabetes increase with age?
+4. Does a higher BMI increase the liklehood of Diabetes?
 
 
