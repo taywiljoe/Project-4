@@ -29,11 +29,11 @@ We will use the following in our project:
 - Diabetes (y/n)
 
 ## Tasks
-Taylor- Visualizations
-Dev- Visualizations
-Kiki- Tableau Visualizations/Presentation slides
-Lyvia- Tableau Visualizations
-Alan- Sequential Machine Learning
+- Taylor - Visualizations using Python
+- Dev - Visualizationss using Python
+- Kiki - Tableau Visualizations
+- Lyvia - Tableau Visualizations & Data Management using SQL
+- Alan - Sequential Machine Learning
 
 ## Data Source:
 Dataset: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
@@ -43,5 +43,6 @@ Dataset: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-datase
 2. Does smoking increase someone's risk of developing Diabetes?
 3. Does the risk for Diabetes increase with age?
 4. Does a higher BMI increase the liklehood of Diabetes?
+5. What are the top contributing factors of diabetes based off our dataset?
 
 
