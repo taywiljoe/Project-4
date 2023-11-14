@@ -11,7 +11,7 @@
 We will use machine learning to predict the likelihood of Diabetes in patients based on their demographic details and medical history. 
 
 We will use the following in our project:
-- sequential model
+- Sequential Model
 - Tableau
 - Pandas
 - Scikit-Learn
@@ -25,7 +25,7 @@ We will use the following in our project:
 - BMI
 - HbA1c Levels
 - Blood Glucose Levels
-- Diabetes (y/n)
+- Diabetes
 
 ## Tasks
 - Taylor - Visualizations using Python
