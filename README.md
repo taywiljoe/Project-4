@@ -12,6 +12,7 @@ We will use machine learning to predict the likelihood of Diabetes in patients b
 
 We will use the following in our project:
 - Sequential Model
+- Random Forest Model
 - Tableau
 - Pandas
 - Scikit-Learn
@@ -32,7 +33,7 @@ We will use the following in our project:
 - Dev - Visualizationss using Python
 - Kiki - Tableau Visualizations
 - Lyvia - Tableau Visualizations & Data Management using SQL
-- Alan - Sequential Machine Learning
+- Alan - Sequential Machine Learning, Random Forest Machine Learning
 
 ## Data Source:
 Dataset: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset/data
