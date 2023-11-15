@@ -31,7 +31,7 @@ We will use the following in our project:
 ## Tasks
 - Taylor - Visualizations using Python
 - Dev - Visualizationss using Python
-- Kiki - Tableau Visualizations
+- Kike - Tableau Visualizations
 - Lyvia - Tableau Visualizations & Data Management using SQL
 - Alan - Sequential Machine Learning, Random Forest Machine Learning
 
