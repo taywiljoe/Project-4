@@ -59,17 +59,24 @@ Predicted No Diabetes When No   =  22840
 Predicted Yes When No           =    490
 
 Accuracy Score : 0.9892896174863388    (22420 + 22840)/45750
+
 Classification Report
 
 
               precision    recall  f1-score   support
+              
 
            0       1.00      0.98      0.99     22910
+           
            1       0.98      1.00      0.99     22840
+           
 
     accuracy                           0.99     45750
+    
    macro avg       0.99      0.99      0.99     45750
+   
 weighted avg       0.99      0.99      0.99     45750
+
 
 Precision is a measure of how many True Positives were actually correct.
 
