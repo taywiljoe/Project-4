@@ -45,12 +45,17 @@ Random Forest Model:
 CONFUSION MATRIX FOR RANDOM FOREST MODEL
 
 Predicted 0    Predicted 1
+
 Actual 0    22420      490
+
 Actual 1    0        22840
 
 Predicted Yes When Yes Diabetes =  22420 
+
 Predicted Yes When No Diabetes  =      0
+
 Predicted No Diabetes When No   =  22840 
+
 Predicted Yes When No           =    490
 
 Accuracy Score : 0.9892896174863388    (22420 + 22840)/45750
