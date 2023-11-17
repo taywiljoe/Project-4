@@ -46,9 +46,9 @@ CONFUSION MATRIX FOR RANDOM FOREST MODEL
 
               Predicted 0   Predicted 1
 
-Actual 0          22420          490
+    Actual 0       22420          490
 
-Actual 1              0        22840
+    Actual 1           0         22840
 
 Predicted Yes When Yes Diabetes =  22420 
 
