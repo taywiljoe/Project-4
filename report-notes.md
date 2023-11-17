@@ -66,11 +66,15 @@ Classification Report
    macro avg       0.99      0.99      0.99     45750
 weighted avg       0.99      0.99      0.99     45750
 
-Precision is a measure of how many True Positives were actually correct. It is defined as the ratio of true positives (TP) to the sum of true and false positives (TP+FP).
+Precision is a measure of how many True Positives were actually correct.
+
+It is defined as the ratio of true positives (TP) to the sum of true and false positives (TP+FP).
 
      * Precision = TP / (TP + FP) = 1.00 for Healthy, .98 for high risk.
 
-Recall, is the ratio of true positives to the sum of true positives and false negatives (TP+FN). It shows how many of the positive predictions were actually correct.
+Recall, is the ratio of true positives to the sum of true positives and false negatives (TP+FN). 
+
+It shows how many of the positive predictions were actually correct.
 
 
 
